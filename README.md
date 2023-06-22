@@ -11,6 +11,10 @@ Cycle Repairs ofer a wide range of products and services: In addition to bike sa
 Target market: The shop could target a specific market such as university students or the surrounding population 
 Exclusive dealer: The shop  aims to be the exclusive dealer for popular bike brands in a certain radius 
 Location: The shop aim to be located in a prime location with good human and vehicular traffic 
-Customer service: The shop  aim to provide excellent customer service 
- 
+Customer service: The shop  aim to provide excellent customer service.
+# User Stories
+ - As a cyclist who needs regular maintenance and repairs for my bike, I want to be able to easily schedule appointments online so that I can quickly get my bike fixed  and 
+    back on the road.
+ - I want to be able to easily track the status  of my bike repairs online so that I can plan my schedule accordingly and to know when my bike is ready for pickup.           
+ -  I want to be able to easily find the Cycle Repairs bicycle mechanic shop, so that I can quickly get my bike fixed and back oln the road.
 
