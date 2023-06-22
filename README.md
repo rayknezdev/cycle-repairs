@@ -13,7 +13,11 @@ Exclusive dealer: The shop  aims to be the exclusive dealer for popular bike bra
 Location: The shop aim to be located in a prime location with good human and vehicular traffic 
 Customer service: The shop  aim to provide excellent customer service.
  # FEATURES 
- ## Existing features
+ ## Existing features]
+ ** Navigation Bar
+
+Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 # User Stories
  - As a cyclist who needs regular maintenance and repairs for my bike, I want to be able to easily schedule appointments online so that I can quickly get my bike fixed  and 
     back on the road.
