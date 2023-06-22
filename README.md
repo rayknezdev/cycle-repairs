@@ -21,8 +21,11 @@ Customer service: The shop  aim to provide excellent customer service.
  
    - &nbsp; Responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page.
    - &nbsp; Section will allow the user to easily navigate from page to page across all devices.
-     
-  [![alt text](image_url)](link_url)
+
+   -[Logo](#logo)  
+   -[Home](#home)
+   -[About](#about)
+   
 
 
 Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
