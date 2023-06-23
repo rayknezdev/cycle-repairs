@@ -1,6 +1,8 @@
 https://looka.com/s/132950123
 
 ![image](https://github.com/rayknezdev/cycle-repairs/assets/135096185/9689f31e-6f8d-4025-9d67-c3d90c0fe670)
+![image](https://github.com/rayknezdev/cycle-repairs/assets/135096185/7a6824d2-c219-4234-b9fd-5f53cea90280)
+
 
 #  Cycle Repairs 
 This is a place where people can take their bicycles to have them repaired or serviced. Bicycle mechanics working at the shop can perform a wide range of repairs on bicycles, from fixing flat tires to adjusting brakes and gears. Bicycle repair shops may also offer services such as bike fitting, wheel building, and suspension tuning. We are specialy proud at our Instant-A Bit  Waiting,  service, where our mechanics,in short time could finish small from a road repairs, while customers waiting at our guest room with refreshments, and after allowed them to continue their ride.
