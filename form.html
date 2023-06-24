@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Cycle Repairs a bicycle mechanic in Mahon, Cork City">
+    <meta name="keywords" content="mechanic, cycle, bike, bicycle, workshop, mahon, servicing">
+
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <title>Book Now!</title>
+</head>
+
+<body>
+    <header>
+        <a id="logo" href="index.html">
+            <h1>Cycle<i class="fa-solid fa-gear"></i> Repairs</h1>
+        </a>
+        <nav>
+            <ul id="main-nav">
+                <li>
+                    <a href="index.html">Home</a>
+                </li>
+                <li>
+                    <a href="services.html">Servicing</a>
+                </li>
+                <li>
+                    <a href="team.html">Our Team</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <section>
+
+        <!--Main Form Section-->
+
+        <form id="booking-form" action="thankyou.html">
+
+            <div id="form-title">
+                <h2>Book in now to be ready for your next ride!</h2>
+            </div>
+
+            <!--form left-->
+
+            <div class="form-divider">
+                <label for="fname">First name:</label>
+                <input id="fname" name="first_name" type="text" required>
+                <br>
+                <label for="lname">Last name:</label>
+                <input id="lname" name="last_name" type="text" required>
+                <br>
+                <label for="email">Email:</label>
+                <input id="email" name="email" type="email" required>
+                <br>
+                <label for="phone">Mobile:</label>
+                <input type="tel" id="phone" name="phone" placeholder="(+353) 021 423-5968" required>
+                <br>
+                <label for="service-select">Type of service:</label>
+                <select name="service" id="service-select" required>
+                    <option value="">Choose...</option>
+                    <option value="basic">Basic</option>
+                    <option value="medium">Medium </option>
+                    <option value="super">Super</option>
+                </select>
+                <br>
+                <label for="date">Availability:<br><small>(bike drop off 8am on booked day)</small></label>
+                <input id="date" name="date" type="date" required>
+            </div>
+
+            <!--form right-->
+
+            <div class="form-divider">
+                <label for="bike">Bike make/ model:</label>
+                <input id="bike" name="bike" type="text" required>
+                <br>
+                <label for="diagnosis">Specifics (if necessary): <br>
+                    <textarea name="diagnosis" id="diagnosis"></textarea>
+                </label>
+                <br>
+                <input id="form-button" class="book-now" name="submit" type="submit" value="Book Now">
+                <p>(payment on bike collection or in advance)</p>
+            </div>
+
+            <!--terms and conditions-->
+
+            <div id="terms">
+                <h3>Please read the following Terms & Conditions carefully.</h3>
+                <p>We are a Bicycle Engineering Academy Ireland, Qualified Professional workshop here in Cork employing
+                    only BEA
+                    Master
+                    Technicians.</p>
+                <p> Experienced Technicians and quality original parts ensure your repair or
+                    service is carried out to the highest standards using only quality parts form suppliers such as
+                    Shimano, Campagnolo, Mavic & SRAM.</p>
+                <p>All our work and supplied parts are guaranteed.</p>
+                <br>
+                <p>All our prices reflect a basic price, and therefore do not include material costs or unforseen extra
+                    labours.</p>
+                <p>All cleanng products used are eco friendly.</p>
+            </div>
+
+        </form>
+
+    </section>
+
+    
+    <footer>
+
+        <ul id="contact-info">
+            <li>Cycle Repairs</li>
+            <li>14 Inchera Lawn</li>
+            <li>T12PD1W Mahon, Cork</li>
+            <li>(+353) 021 423 5968</li>
+        </ul>
+
+        <ul class="social-icons">
+            <li>
+                <a href="https://www.instagram.com/" target="_blank" rel="noopener"
+                    aria-label="Visit our instagram for more (opens in new tab)"><i
+                        class="fa-brands fa-instagram"></i></a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com/" target="_blank" rel="noopener"
+                    aria-label="Visit our youtube for more (opens in new tab)"><i class="fa-brands fa-youtube"></i></a>
+            </li>
+            <li>
+                <a href="mailto:velo-workshop@hotmail.co.uk" target="_blank" rel="noopener"
+                    aria-label="Send us a direct email (opens email draft)"><i class="fa-solid fa-envelope"></i></a>
+            </li>
+        </ul>
+    </footer>
+
+    <script src="https://kit.fontawesome.com/3440ecbefc.js" crossorigin="anonymous"></script>
+
+</body>
+
+</html>
