@@ -695,5 +695,332 @@ select {
         width: 60%
     }
 
-    
+    /* services.html */
 
+    .services-main {
+        flex-direction: column;
+        align-content: center;
+        justify-content: space-evenly;
+    }
+
+    .serv-box {
+        width: 90%;
+    }
+
+    .serv-box:hover {
+        width: 90%;
+    }
+
+    #gallery {
+        margin-bottom: 10px;
+        flex-direction: column;
+    }
+
+    #gallery div {
+        width: auto;
+        margin-bottom: 5px;
+    }
+
+    #gallery img {
+        width: 100%;
+    }
+
+    .team-row {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #mid-row {
+        flex-direction: column;
+    }
+
+    .profile-info,
+    #mid-row .profile-info {
+        width: 75%;
+        padding: 0;
+    }
+}
+
+/* Querie ensures better fit for profile images and thus better UX */
+
+@media screen and (max-width: 750px) {
+
+    /* index.html */
+
+    #riding-video {
+        width: 75%
+    }
+
+    /* teams.html */
+
+    .profile-img {
+        width: 75%
+    }
+
+}
+
+/* Small Tablet/ Large Phone Screen Sizes */
+
+@media screen and (max-width: 600px) {
+
+    /* index.html */
+
+    #logo {
+        padding: 20px 20px 0 20px;
+        line-height: 80px;
+    }
+
+    #home-img {
+        margin: 0;
+        width: 100%;
+    }
+
+    .info {
+        height: 600px;
+        flex-direction: column;
+        flex-wrap: nowrap;
+    }
+
+    .container {
+        width: 100%;
+    }
+
+    #riding-video {
+        width: 100%;
+    }
+
+    /* teams.html */
+
+    .profile-img {
+        width: 100%;
+    }
+
+    .profile-info,
+    #mid-row .profile-info {
+        width: 100%;
+    }
+
+    /* footer */
+
+    .social-icons {
+        display: inline;
+        text-align: center;
+
+    }
+
+}
+
+/* Large/ Small Phone Screen Sizes */
+
+@media screen and (max-width: 500px) {
+
+    /* index.html */
+
+    #img-container {
+        height: 300px;
+    }
+
+    #home-img {
+        height: 100%;
+        width: auto;
+        margin: 0;
+    }
+
+    .info {
+        width: 100%;
+    }
+
+    /* services.html */
+
+    .page-intro {
+        font-size: 0.8em;
+    }
+
+    .services-main {
+        margin: 0;
+    }
+
+    .serv-box {
+        width: 100%;
+    }
+
+    .serv-box:hover {
+        width: 100%;
+    }
+
+    #pro {
+        border-right: none;
+        border-left: none;
+    }
+
+    /* form.html */
+
+    #form-title {
+        width: 75%;
+        font-size: 1em;
+        margin: 0 auto;
+    }
+
+    #booking-form {
+        width: 100%;
+        padding: 0;
+        margin: 0;
+        flex-direction: column;
+    }
+
+    .form-divider {
+        margin: 0 20px;
+    }
+
+    /* thankyou.html */
+
+    #back-home-button {
+        font-size: 1em;
+    }
+}
+
+/* Small / Slim Screen Sizes */
+
+@media screen and (max-width: 400px) {
+
+    /* logo */
+
+    #logo {
+        padding: 10px 0;
+    }
+
+    /* nav */
+
+    #main-nav {
+        display: grid;
+        font-size: 0.8em;
+    }
+
+    #main-nav li {
+        width: 90%;
+        margin: 0 auto;
+        line-height: 40px;
+        border-right: none;
+        border-bottom: 2px solid black;
+    }
+
+    #main-nav li:last-child {
+        border: none;
+    }
+
+
+
+    /* index.html */
+
+    #img-container,
+    #home-image {
+        display: none;
+    }
+
+    .words p {
+        font-size: 1em;
+    }
+
+    #video-text-cont {
+        font-size: 1em;
+    }
+
+
+    /* services.html */
+
+    .page-intro {
+        text-align: left;
+        font-size: 0.6em;
+        padding-left: 20px;
+    }
+
+    .page-intro p {
+        margin: 0;
+    }
+
+    .serv-box {
+        text-align: left;
+        margin-bottom: 20px;
+    }
+
+    /* thankyou.html */
+
+    #thankyou>h3 {
+        font-size: 1em;
+    }
+
+    #thankyou>h2 {
+        font-size: 1.5em;
+    }
+
+    /* teams.html */
+
+    .profile-info {
+        font-size: 0.8em;
+    }
+
+    .profile-list-wrapper {
+        flex-direction: column;
+    }
+
+    .achievements {
+        margin: 10px 0 0 0;
+    }
+
+    /* footer */
+
+    footer {
+        text-align: center;
+        flex-direction: column;
+    }
+
+    .social-icons {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding: 0;
+    }
+
+    .social-icons i {
+        margin: 20px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* form.html */
+
+#form-title {
+    width: 75%;
+    font-size: 1em;
+    margin: 0 auto;
+}
+
+#booking-form {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    flex-direction: column;
+}
+
+.form-divider {
+    margin: 0 20px;
+}
