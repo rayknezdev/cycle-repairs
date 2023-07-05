@@ -89,10 +89,10 @@ a:active {
     position: relative;
 }
 
-#home-img {
-    height: 100%;
-    width: 90%;
-    background: url('../images/Main picture.jpg') no-repeat center center;
+#Main picture {
+    height: 600%;
+    width: 100%;
+    background: url('../images/Main picture-image.jpg')no-repeat center center;
     background-size: cover;
     margin: 0 5%;
 }
