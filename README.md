@@ -1,4 +1,4 @@
-![image](https://github.com/rayknezdev/cycle-repairs/assets/135096185/7a6824d2-c219-4234-b9fd-5f53cea90280)
+
 ![image](https://github.com/rayknezdev/cycle-repairs/assets/135096185/09eb7a11-7bc4-413c-a4fd-b91a87205f09)
 
 
@@ -7,7 +7,7 @@
 
 
 #  Cycle Repairs 
-This is a place where people can take their bicycles to have them repaired or serviced. Bicycle mechanics working at the shop can perform a wide range of repairs on bicycles, from fixing flat tires to adjusting brakes and gears. Bicycle repair shops may also offer services such as bike fitting, wheel building, and suspension tuning. We are specialy proud at our Instant-A Bit  Waiting,  service, where our mechanics,in short time could finish small from a road repairs, while customers waiting at our guest room with refreshments, and after allowed them to continue their ride.
+This is a place where people can take their bicycles to have them repaired or serviced. Bicycle mechanics working at the shop can perform a wide range of repairs on bicycles, from fixing flat tires to adjusting brakes and gears. Bicycle repair shops may also offer services such as bike fitting, wheel building, and suspension tuning. We are specialy proud at our Instant-A Bit  Waiting,  service, where our mechanics,in short time could finish small road repairs, while customers waiting at our guest room with refreshments, and after allowed them to continue their ride.
 # Project Description
  Bicycle Mechanic Shop project involve setting up a shop that specializes in repairing and servicing bicycles. The shop employ skilled bicycle mechanics who can perform a wide range of repairs and services on bicycles. The shop offer services such as bike fitting, wheel building, and suspension tuning, in addition to basic repairs like fixing flat tires and adjusting brakes and gears. We advice and educate owners and riders about maintenance and small home repairs.  The target audience for the shop is anyone who owns a bicycle and needs it to be repaired or serviced. This include casual riders, commuters, and competitive cyclists. The shop also sell bicycle parts and accessories to provide a one-stop-shop for all bicycle-related needs.
  # Goals
@@ -19,7 +19,7 @@ Customer service: The shop  aim to provide excellent customer service.
 
  # FEATURES 
  
- ## Existing features]
+ ## Existing features
  
  -__Navigation Bar__
  
