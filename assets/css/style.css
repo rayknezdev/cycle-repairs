@@ -7,7 +7,7 @@
 }
 
 html {
-    height: 100%;
+    height:100%;
 }
 
 /* MAIN STYLES */
@@ -28,7 +28,7 @@ header {
 /* HEADINGS */
 
 h1 {
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family:'Roboto Condensed', sans-serif;
     color: #121212;
     text-transform: uppercase;
     text-decoration: underline;
@@ -45,7 +45,7 @@ h3 {
 
 #logo {
     font-size: 180%;
-    text-decoration: none;
+    text-decoration:none;
     letter-spacing: 2px;
 }
 
@@ -116,7 +116,7 @@ a:active {
 
 .info {
     height: 300px;
-    width: 90%;
+    width: 100%;
     margin-top: 20px;
     background-color: #42526e;
     border: 2px solid #121212;
