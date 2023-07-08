@@ -1,10 +1,7 @@
-
-![image](https://github.com/rayknezdev/cycle-repairs/assets/135096185/09eb7a11-7bc4-413c-a4fd-b91a87205f09)
-
-
-![image](https://github.com/rayknezdev/cycle-repairs/assets/135096185/9689f31e-6f8d-4025-9d67-c3d90c0fe670)
+![mockup](assets/images/readme/mockup.png)
 
 
+[Visit the deployed site](https://rayknezdev.github.io/cycle-repairs/) 
 
 #  Cycle Repairs 
 This is a place where people can take their bicycles to have them repaired or serviced. Bicycle mechanics working at the shop can perform a wide range of repairs on bicycles, from fixing flat tires to adjusting brakes and gears. Bicycle repair shops may also offer services such as bike fitting, wheel building, and suspension tuning. We are specialy proud at our Instant-A Bit  Waiting,  service, where our mechanics,in short time could finish small road repairs, while customers waiting at our guest room with refreshments, and after allowed them to continue their ride.
@@ -16,6 +13,7 @@ Target market: The shop could target a specific market such as university studen
 Exclusive dealer: The shop  aims to be the exclusive dealer for popular bike brands in a certain radius 
 Location: The shop aim to be located in a prime location with good human and vehicular traffic 
 Customer service: The shop  aim to provide excellent customer service.
+
 
  # FEATURES 
  
