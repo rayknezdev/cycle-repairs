@@ -49,5 +49,46 @@ Third, Team page present other members of Cycle Repairs team, with nice logo of 
     back on the road.
  - I want to be able to easily track the status  of my bike repairs online so that I can plan my schedule accordingly and to know when my bike is ready for pickup.           
  -  I want to be able to easily find the Cycle Repairs bicycle mechanic shop, so that I can quickly get my bike fixed and back oln the road.
- - Like regular customer, interested at long-time membership with discount repairs prices and discount prices on parts and new bicycles. 
+ - Like regular customer, interested at long-time membership with discount repairs prices and discount prices on parts and new bicycles.
+
+ 
+# Technologies Used
+## Languages Used
+HyperText Markup Language(HTML) and Cascading Style Sheet(CSS) were used to create this website.
+
+[Github](https://www.github.com/) - To save and store the files for the website.
+
+[Google Fonts](https://fonts.google.com/) - To import the fonts used on the website.
+
+[Am I Responsive?](http://ami.responsivedesign.is/) To show the website image on a range of devices.
+
+## Deployment
+Github Pages was used to deploy the live website. The instructions to achieve this are below:
+
+Log in (or sign up) to Github.com.
+Find the repository for this project,rayknezdev/cycle-repairs
+Click on the Settings link.
+Click on the Pages link in the left hand side navigation bar.
+In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu.
+Your live Github Pages site is now deployed at the URL shown.
+## Local development
+
+### How to Fork?
+To fork the PP1 repository:
+
+Log in (or sign up) to Github.
+Go to the repository for this project, https://github.com/rayknezdev/cycle-repairs
+Click the Fork button in the top right corner.
+
+### How to Clone
+To clone the PP1 repository:
+
+Log in (or sign up) to GitHub.
+Go to the repository for this project, https://github.com/rayknezdev/cycle-repairs
+Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
+# Testing
+
+
 

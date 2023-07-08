@@ -92,7 +92,7 @@ a:active {
 
 #Main picture {
     height: 100%;
-    width: 90%;
+    width: 100%;
     background: url('../images/Main.jpg')no-repeat center center;
     background-size: cover;
     margin: 0 5%;
