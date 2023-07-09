@@ -50,6 +50,13 @@ Third, Team page present other members of Cycle Repairs team, with nice logo of 
  - I want to be able to easily track the status  of my bike repairs online so that I can plan my schedule accordingly and to know when my bike is ready for pickup.           
  -  I want to be able to easily find the Cycle Repairs bicycle mechanic shop, so that I can quickly get my bike fixed and back oln the road.
  - Like regular customer, interested at long-time membership with discount repairs prices and discount prices on parts and new bicycles.
+ - As a new user, I want to easily navigate on the website.
+ - As a new user, I want to have an attractive presentations of the information about cycle repairing.
+ - As a new user, I want to easily contact the cycle repair shop to book an appointment.
+ - As a cyclist who needs regular maintenance and repairs for my bike, I want to be able to easily schedule appointments online so that I can quickly get my bike fixed and back on the road.
+ - As a cyclist, I want to be able to easily track the status of my bike repairs online so that I can plan my schedule accordingly and to know when my bike is ready for pickup
+ - As a cyclist, I want to be able to easily find the Cycle Repairs bicycle mechanic shop, so that I can quickly get my bike fixed and back on the road.
+ 
 
  
 # Technologies Used
@@ -94,14 +101,14 @@ On completion the site was tested across multiple browsers and platforms. The si
 - Screen Testing
 The site was screen tested for reponsiveness locally using Chrome developer tools and also across real devices. These included:
 
-Desktops and Monitors
-Large HD desktop monitor
-Standard PC monitor
-Laptop Asus
-Phones and Tablets (landscape and portrait)
-iPhone Xr
-iPhone 11
-Huawei p30pro
+- Desktops and Monitors
+- Large HD desktop monitor
+- Standard PC monitor
+- Laptop Asus
+- Phones and Tablets (landscape and portrait)
+- iPhone Xr
+- iPhone 11
+- Huawei p30pro
 
 # Bugs
 - I had a problem at first deployment. Page localy was fine,at deployment was loosing images.Problem was in images organisations at image file. Extensions wasnt changed in the code.
@@ -109,10 +116,45 @@ Huawei p30pro
 - 
 
 # Lighthouse Analysis
+- Homepage
+![Alt text](assets/images/readme/lighthouse_homepage.png)
+
+- Servicing
+![Alt text](assets/images/readme/lighthouse_servicing.png)
+
+- Ourteam
+![Alt text](assets/images/readme/lighthouse_ourteam.png)
+
+- Thankyou
+![Alt text](assets/images/readme/lighthouse_thankyou.png)
+
+- Form
+![Alt text](assets/images/readme/lighthouse_form.png)
 
 
 # Validation
+## Html
+-Mistakes were shown. Div element wasnt closed in several lines. That was corected
+![html](assets/images/readme/html-checker.png)
+
+## Css
+![Css](assets/images/readme/Css-valid.png)
+
+
+
 
 # Credits
+## Content
+- - Fonts
 
+    Both fonts used (Roboto and Roboto Condensed) were taken from [Google Fonts](https://fonts.google.com/)
+
+- Color Pallette
+
+    Selected colors were chosen through this palette [Colorhunt](https://colorhunt.co/palette/f5f5f5f0545430475e121212)
+
+
+- Hover Effects
+
+    Inspiration and guidance for button and link hover effect came from multiple sources - [Free Frontend](https://freefrontend.com/css-hover-effects/), [W3 Schools](https://www.w3schools.com/cssref/sel_hover.php)
 
