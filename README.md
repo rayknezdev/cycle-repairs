@@ -152,6 +152,12 @@ The site was screen tested for reponsiveness locally using Chrome developer tool
 
 # Credits
 
+- I wish to thank Velo Workshop-project, author, that allowes me to use part of his code, which i found it at GitHub.
+- To thank my brother prof.dr Cedomir Knezevic Phd English Language for correcting my texts messages
+- To thank Slack community,especially one individual..
+- To thank  my mentor
+- To thank Code Institute providing me material and chance to make my first coding project
+
 ## Content
 - - Fonts
 
