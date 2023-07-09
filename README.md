@@ -3,7 +3,7 @@
 
 [Visit the deployed site](https://rayknezdev.github.io/cycle-repairs/) 
 
-#  Cycle Repairs 
+#  Cycle Repairs
 This is a place where people can take their bicycles to have them repaired or serviced. Bicycle mechanics working at the shop can perform a wide range of repairs on bicycles, from fixing flat tires to adjusting brakes and gears. Bicycle repair shops may also offer services such as bike fitting, wheel building, and suspension tuning. We are specialy proud at our Instant-A Bit  Waiting,  service, where our mechanics,in short time could finish small road repairs, while customers waiting at our guest room with refreshments, and after allowed them to continue their ride.
 ## Project Description
  Bicycle Mechanic Shop project involve setting up a shop that specializes in repairing and servicing bicycles. The shop employ skilled bicycle mechanics who can perform a wide range of repairs and services on bicycles. The shop offer services such as bike fitting, wheel building, and suspension tuning, in addition to basic repairs like fixing flat tires and adjusting brakes and gears. We advice and educate owners and riders about maintenance and small home repairs.  The target audience for the shop is anyone who owns a bicycle and needs it to be repaired or serviced. This include casual riders, commuters, and competitive cyclists. The shop also sell bicycle parts and accessories to provide a one-stop-shop for all bicycle-related needs.
@@ -27,21 +27,21 @@ Customer service: The shop  aim to provide excellent customer service.
 
 ### Footer
 
-![Footer](assets/images/readme/Footer.png)
+![Footer](assets/images/readme/footer.png)
 Footer is placed at botom of the page.It consists from contact adress and link to the social media
 
 ### Center
 Presented with service link to second page where visitor can find information about service packages, their price and value.Working time sheet and interactive location map of the shop.
-![Center](<assets/images/readme/Center 1st page.png>)
+![Center](<assets/images/readme/center-1st.page.png>)
 
 
 ### Service page
 After entering on second page user could find sort description about quality of fellows repairing jobs and Basic, Medium, Super package with prices and duration.
-![Service](<Service page.png>)
+![Service](<assets/images/readme/service-page.png>)
 
 ### Our team page
-![Team1](assets/images/readme/Team1.png)
-![Team2](Team2.png)
+![Team1](assets/images/readme/team1.png)
+![Team2](assets/images/readme/team2.png)
 Third, Team page present other members of Cycle Repairs team, with nice logo of Bicycle Enginering Academy, state only body with educational program for future Bicycle Mechanics.
 
 # User Stories
@@ -106,6 +106,7 @@ Huawei p30pro
 # Bugs
 - I had a problem at first deployment. Page localy was fine,at deployment was loosing images.Problem was in images organisations at image file. Extensions wasnt changed in the code.
 - Logo at first page was small. Mistake was that  I put empty space between part of the code. Main page was running to the left laving white empty space. Procentage, "css" was less then should be  for the size of 10%.
+- 
 
 # Lighthouse Analysis
 
