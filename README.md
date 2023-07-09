@@ -62,7 +62,7 @@ HyperText Markup Language(HTML) and Cascading Style Sheet(CSS) were used to crea
 
 [Am I Responsive?](http://ami.responsivedesign.is/) To show the website image on a range of devices.
 
-## Deployment
+# Deployment
 Github Pages was used to deploy the live website. The instructions to achieve this are below:
 
 Log in (or sign up) to Github.com.
@@ -89,6 +89,29 @@ Click on the code button, select whether you would like to clone with HTTPS, SSH
 Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
 Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
 # Testing
+On completion the site was tested across multiple browsers and platforms. The site has been built using Chrome, therefore it was also tested across Microsoft Edge and Firefox for desktops and larger screen sizes, whilst tested using Safari and Chrome on mobile and tablet devices.
 
+- Screen Testing
+The site was screen tested for reponsiveness locally using Chrome developer tools and also across real devices. These included:
+
+Desktops and Monitors
+Large HD desktop monitor
+Standard PC monitor
+Laptop Asus
+Phones and Tablets (landscape and portrait)
+iPhone Xr
+iPhone 11
+Huawei p30pro
+
+# Bugs
+- I had a problem at first deployment. Page localy was fine,at deployment was loosing images.Problem was in images organisations at image file. Extensions wasnt changed in the code.
+- Logo at first page was small. Mistake was that  I put empty space between part of the code. Main page was running to the left laving white empty space. Procentage, "css" was less then should be  for the size of 10%.
+
+# Lighthouse Analysis
+
+
+# Validation
+
+# Credits
 
 
