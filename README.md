@@ -116,23 +116,30 @@ The site was screen tested for reponsiveness locally using Chrome developer tool
 - 
 
 # Lighthouse Analysis
-- Homepage
+
+- HOMEPAGE
+
 ![Alt text](assets/images/readme/lighthouse_homepage.png)
 
-- Servicing
+- SERVICING
+
 ![Alt text](assets/images/readme/lighthouse_servicing.png)
 
-- Ourteam
+- OURTEAM
+
 ![Alt text](assets/images/readme/lighthouse_ourteam.png)
 
-- Thankyou
+- THANKYOU
+
 ![Alt text](assets/images/readme/lighthouse_thankyou.png)
 
-- Form
+- FORM
+
 ![Alt text](assets/images/readme/lighthouse_form.png)
 
 
 # Validation
+
 ## Html
 -Mistakes were shown. Div element wasnt closed in several lines. That was corected
 ![html](assets/images/readme/html-checker.png)
@@ -144,6 +151,7 @@ The site was screen tested for reponsiveness locally using Chrome developer tool
 
 
 # Credits
+
 ## Content
 - - Fonts
 
